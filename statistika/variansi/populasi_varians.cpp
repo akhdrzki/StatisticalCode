@@ -34,8 +34,12 @@ int main() {
   std::cout << "Nilai varians data pertama: "
             << populasi_varians(data = {50.0, 150.0}, mean = 100.0)
             << std::endl;
+  // output -> 2500 
+  // bisa dipastikan data sifatnya fluktuatif
 
   std::cout << "Nilai varians data kedua: "
             << populasi_varians(data = {98.0, 102.0}, mean = 100.0);
+  // output -> 4
+  // dibanding data pertama, hasil kedua jauh lebih kecil yang menandakan data stabil
   return 0;
 }
