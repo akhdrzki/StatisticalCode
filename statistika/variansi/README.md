@@ -8,7 +8,7 @@ $$\sigma^2 = \frac{\Sigma(x_i - \mu)^2}{N}$$
 
 ## Variansi Sampel
 
-$$S^2 = \frac{\Sigma(x_i - \mu)^2}{n-1}$$
+$$S^2 = \frac{\Sigma(x_i - \bar{x})^2}{n-1}$$
 
 
 
