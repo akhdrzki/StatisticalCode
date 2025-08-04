@@ -34,3 +34,6 @@ float populasi_varians(std::vector<float> data, float mean) {
     return sum / N;
 }
 ```
+
+## ⚡ Quick Access ⚡
+- [Variansi] (statistika/variansi)
