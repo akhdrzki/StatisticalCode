@@ -15,6 +15,7 @@ float covariance(std::vector<float> data_x, std::vector<float>data_y, float mean
     float -> nilai dari covariance bertipe float
 
     >> covariance(data_x = {2,4,6,8,10}, data_y = {3,7,10,14,17}, mean_x = 6, mean_y = 10.2) 
+    17.5
   **/
   int N = data_x.size();
   float sum = 0, x_opr, y_opr;
