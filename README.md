@@ -38,3 +38,4 @@ float populasi_varians(std::vector<float> data, float mean) {
 ## ⚡ Quick Access ⚡
 - [Variansi](statistika/variansi)
 - [Kovarians](statistika/kovarians)
+- [Standar Deviasi](statistika/standar_deviasi)
